@@ -7,6 +7,8 @@ public class BootFirst {
         System.out.println(c);
         System.out.println('c');
         System.err.println("c++");
+        System.out.println("111");
+        System.out.println("333");
     }
 
 }
