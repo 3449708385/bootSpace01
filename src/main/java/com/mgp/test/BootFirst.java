@@ -9,7 +9,7 @@ public class BootFirst {
         System.err.println("c++");
         System.out.println("111");
         System.out.println("333");
-        System.err.println("22");
+        System.err.println("2211");
     }
 
 }
